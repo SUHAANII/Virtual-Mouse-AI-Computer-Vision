@@ -78,5 +78,7 @@ Adding voice control integration.
 Making it usable on mobile devices.
 
 Contributing:
+
 Contributions are welcome!
+
 Feel free to submit pull requests or open issues to improve the project.
